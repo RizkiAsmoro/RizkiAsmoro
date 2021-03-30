@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RizkiAsmoro
+- 👋 Hi, I’m Rizki
 - 👀 I’m interested in SAP ABAP,BPC,BW and Python
 - 🌱 I’m currently learning SAP ABAP,BPC,BW and Python
 - 💞️ I’m looking to collaborate on ...
